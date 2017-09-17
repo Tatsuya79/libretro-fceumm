@@ -257,6 +257,7 @@
 	{0x276237b3,	206,		0},	/* Karnov */
 	{0xa5e6baf9,	206,		1},	/* Dragon Slayer 4 - Drasle Family (Japan) */
 	{0x9d21fe96,	206,		1},	/* Lupin Sansei - Pandora no Isan (Japan) */
+	{0xae321339,	206,		1},	/* Pro Yakyuu - Family Stadium '88 (Japan) */
 	{0x2a01f9d1,	206,		1},	/* Wagyan Land (Japan) */
 	{0x7678f1d5,	207,		8},	/* Fudou Myouou Den */
 	{0x07eb2c12,	208,	   -1},	/* Street Fighter IV */
